@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Javasript percentage</title>
+<script>
+var per = 55;
+
+if (per >= 80 && per <=100{
+document.write("you are in marit");
+}else if (per >=60 && per <=80){
+document.write("you ar in 1st Devision");
+}else if (per >=45 && per <=60){
+document.write("you are in 2nd Devision");
+}else if (per is >= 33 && per <= 45){
+document.write("you are in 3rd Devision");
+}else if (per < 33);{
+document.write("you are fail");
+}else{
+document.write("please enter a valid Number");
+}
+
+
+
+
+
+</script>
+
+
+</head>
+
+
+
+
+
+
+</html>
